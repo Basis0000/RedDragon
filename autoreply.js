@@ -1,7 +1,7 @@
 const autoReply = (msg) => {
     let R = ''
     if(msg.match(/hi|හායි|hey|hello|halo|helow|හලෝ/gi)){
-        R = "🤓Hey, I am RedDragon👽"
+        R = "🤓Hey, I am ⏤͟͟͞͞★❮DHANUKA❯⏤͟͟͞͞★👽"
     }
     if(msg.match(/😒/gi)){
         R = "😒මොකෝ"
@@ -10,7 +10,7 @@ const autoReply = (msg) => {
         R = "🥲💔"
     }
     if(msg.match(/ane|අනේ|අනෙ/gi)){
-        R = "🤭අනේ පනේ🤫😂"
+        R = "🤭අනේ පනේ තනේ වැනේ🤫😂"
     }
     if(msg.match(/yako|yaku|යකෝ|යකො/gi)){
         R = "😒කවුද යකා. මමද?💔"
@@ -34,7 +34,7 @@ const autoReply = (msg) => {
         R = "🐶"
     }
     if(msg.match(/කව්ද|කවුද|kawd|who|kwd/gi)){
-        R = "😎මම තමයි රතු මකරා💀"
+        R = "😎මම තමයි මහින්ද රාජපක්ෂ ඔයාලගෙ අප්පච්චි💀"
     }
     if(msg.match(/බය|baya/gi)){
         R = "😂හා"
